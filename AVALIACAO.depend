@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607969657 source:c:\users\emson\onedrive\Área de trabalho\projeto pizzaria\avaliacao\main.c
+	<stdio.h>
+	"cliente.h"
+
+1607969629 c:\users\emson\onedrive\Área de trabalho\projeto pizzaria\avaliacao\cliente.h
+
+1607969800 source:c:\users\emson\onedrive\Área de trabalho\projeto pizzaria\avaliacao\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
